@@ -1,4 +1,5 @@
 {
+  "homepage": "https://vaibhavprasad54.github.io/dev-portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +12,6 @@
     "aos": "^2.3.4",
     "bootstrap": "^5.1.3",
     "emailjs-com": "^3.2.0",
-    "gh-pages": "^4.0.0",
     "lottie-web": "^5.9.1",
     "react": "^17.0.2",
     "react-animation-on-scroll": "^5.0.0",
@@ -25,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
