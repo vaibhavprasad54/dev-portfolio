@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dev-portfolio/static/css/main.01a2e32e.css",
+    "main.js": "/dev-portfolio/static/js/main.3256524a.js",
+    "static/media/Instagram-1.png": "/dev-portfolio/static/media/Instagram-1.bb34272de04c7b64f697.png",
+    "static/media/Youtube-1.png": "/dev-portfolio/static/media/Youtube-1.64f28f1e046677444aa1.png",
+    "static/media/DigitalClock.png": "/dev-portfolio/static/media/DigitalClock.c00a8f06adb5a0c39973.png",
+    "static/media/Twitter-1.png": "/dev-portfolio/static/media/Twitter-1.2b9023c935fea6927f65.png",
+    "static/media/WeatherApp.png": "/dev-portfolio/static/media/WeatherApp.18874ebc0b6c8592d3ea.png",
+    "static/media/LinkedIn.png": "/dev-portfolio/static/media/LinkedIn.f8576129718f1ea09eea.png",
+    "static/media/NewsApp.png": "/dev-portfolio/static/media/NewsApp.b7dfa67c8df429771615.png",
+    "static/media/rating.png": "/dev-portfolio/static/media/rating.41280479a3074b0b1954.png",
+    "static/media/githubSearch.png": "/dev-portfolio/static/media/githubSearch.a0a55ab4de5a87b0a126.png",
+    "static/media/resume-vaibhav.pdf": "/dev-portfolio/static/media/resume-vaibhav.a915140a35e8fdd16812.pdf",
+    "static/media/TextEditor.png": "/dev-portfolio/static/media/TextEditor.25bed3ba3882d5e81118.png",
+    "index.html": "/dev-portfolio/index.html",
+    "main.01a2e32e.css.map": "/dev-portfolio/static/css/main.01a2e32e.css.map",
+    "main.3256524a.js.map": "/dev-portfolio/static/js/main.3256524a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a2e32e.css",
+    "static/js/main.3256524a.js"
+  ]
+}
