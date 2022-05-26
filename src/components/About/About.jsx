@@ -53,7 +53,7 @@ function About(props) {
               <p> I am a Frontend Developer with a knack in designing and developing those designs into beautiful user interfaces. I am currently working on React as well as Angular. Besides that I have a Youtube community with over 5000+ Subscribers where I upload my music cover videos. </p>
             </div>
             <div className="bottom">
-             <a href="https://www.youtube.com/c/VaibhavPrasad"> <img data-aos="fade-left" data-aos-delay="350" className='ytIcon' src={youtubeIcon} alt="" /> </a> 
+              <a href="https://www.youtube.com/c/VaibhavPrasad" target="#"> <img data-aos="fade-left" data-aos-delay="350" className='ytIcon' src={youtubeIcon} alt="" /> </a> 
             </div>
           </div>
         </div>
