@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/dev-portfolio/static/css/main.01a2e32e.css",
-    "main.js": "/dev-portfolio/static/js/main.3256524a.js",
+    "main.js": "/dev-portfolio/static/js/main.b94c09e0.js",
     "static/media/Instagram-1.png": "/dev-portfolio/static/media/Instagram-1.bb34272de04c7b64f697.png",
     "static/media/Youtube-1.png": "/dev-portfolio/static/media/Youtube-1.64f28f1e046677444aa1.png",
-    "static/media/DigitalClock.png": "/dev-portfolio/static/media/DigitalClock.c00a8f06adb5a0c39973.png",
     "static/media/Twitter-1.png": "/dev-portfolio/static/media/Twitter-1.2b9023c935fea6927f65.png",
     "static/media/WeatherApp.png": "/dev-portfolio/static/media/WeatherApp.18874ebc0b6c8592d3ea.png",
     "static/media/LinkedIn.png": "/dev-portfolio/static/media/LinkedIn.f8576129718f1ea09eea.png",
@@ -15,10 +14,10 @@
     "static/media/TextEditor.png": "/dev-portfolio/static/media/TextEditor.25bed3ba3882d5e81118.png",
     "index.html": "/dev-portfolio/index.html",
     "main.01a2e32e.css.map": "/dev-portfolio/static/css/main.01a2e32e.css.map",
-    "main.3256524a.js.map": "/dev-portfolio/static/js/main.3256524a.js.map"
+    "main.b94c09e0.js.map": "/dev-portfolio/static/js/main.b94c09e0.js.map"
   },
   "entrypoints": [
     "static/css/main.01a2e32e.css",
-    "static/js/main.3256524a.js"
+    "static/js/main.b94c09e0.js"
   ]
 }
